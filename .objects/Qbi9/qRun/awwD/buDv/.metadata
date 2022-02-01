@@ -1,0 +1,14 @@
+﻿{
+  "Id": "buDv7j2idEaem7KszsGcyQ",
+  "Reference": "f556r-OgB0apHTHU5d0wgw/buDv7j2idEaem7KszsGcyQ",
+  "ParentRef": "f556r-OgB0apHTHU5d0wgw/awwDlXf1OUygLF64D_u9lQ",
+  "Name": "Click 'Home'",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2021-12-04T04:29:12.4959221Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-12-04T04:29:12.4959221Z"
+}

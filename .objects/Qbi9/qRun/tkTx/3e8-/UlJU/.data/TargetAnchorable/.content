@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/work-items" ContentHash="TgxHavNaQEmdq7UqXfs1JQ" DesignTimeRectangle="1548, 843, 28, 28" ElementType="Text" FriendlyName="'&gt;'" FullSelectorArgument="&lt;webctrl aaname='&amp;gt;' tag='A' aria-label='Next »' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='&amp;gt;' tag='A' aria-label='Next »' type='' check:text='&amp;gt;' /&gt;" Guid="b3002a19-8436-4ed4-b14a-3b8ded502e21" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">07U-ZeXhXUEizbADNk64W2w</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2d0d97887cb210c378311ad52682e801.png" xmlns="">09eOzQUUM6UaucPSgt0aw6Q</imageRef>
+</TargetAnchorable>

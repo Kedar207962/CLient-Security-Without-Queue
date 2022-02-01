@@ -1,0 +1,14 @@
+﻿{
+  "Id": "R20gtoUQ7UyV1VyDJad-7g",
+  "Reference": "f556r-OgB0apHTHU5d0wgw/R20gtoUQ7UyV1VyDJad-7g",
+  "ParentRef": "f556r-OgB0apHTHU5d0wgw/p8GXLOazTECFI8PLEumx6Q",
+  "Name": "'Click 'Work Items'",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2021-12-04T04:43:57.0321895Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-12-04T04:43:57.0321895Z"
+}

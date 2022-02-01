@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="5VY1vftTAUa7ioizHOTQjQ" DesignTimeRectangle="335, 296, 1248, 529" FriendlyName="'Actions WIID'" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;" Guid="eb25109d-c0df-472d-9f08-7060b17d981b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="InformativeScreenshot" originalValue="ce9059b999e5ce96279ef39548b856d2.png" xmlns="">0Cs6vs50CZEmxLtmvzXeoUA</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "WKM9S1qeoky_hCjL7rxY2A",
+  "Reference": "f556r-OgB0apHTHU5d0wgw/WKM9S1qeoky_hCjL7rxY2A",
+  "ParentRef": "f556r-OgB0apHTHU5d0wgw/tkTxnyZCTEO6BiE8ZTd6uA",
+  "Name": "Click as Per WIID",
+  "Description": "Navigate to WI Details",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2021-11-15T14:36:48.3687529Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-11-15T14:36:48.3687529Z"
+}

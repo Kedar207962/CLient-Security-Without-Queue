@@ -1,0 +1,14 @@
+﻿{
+  "Id": "XKyU-qNG0U2bRtcbsvgTJg",
+  "Reference": "f556r-OgB0apHTHU5d0wgw/XKyU-qNG0U2bRtcbsvgTJg",
+  "ParentRef": "f556r-OgB0apHTHU5d0wgw/e8mVMmCUvEKP9qf_4ZQCYg",
+  "Name": "Click Home",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2021-11-27T04:58:16.3532832Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-11-27T04:58:16.3532832Z"
+}

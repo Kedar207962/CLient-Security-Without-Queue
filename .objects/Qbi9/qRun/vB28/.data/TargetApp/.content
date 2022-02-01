@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="-9, -9, 1938, 1048" BrowserType="Chrome" ContentHash="dxcXrCCKz0y0jM8AIFe84Q" Reference="f556r-OgB0apHTHU5d0wgw/t9gfnJ6CX0iufBdWh4AEGA" Selector="&lt;html app='chrome.exe' title='ACME System 1 - *' /&gt;" Url="https://acme-test.uipath.com" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0BLHXkqog_kmOgZOf-BSTCg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2483577fb9f28e131ca396f8233a4381.png" xmlns="">0_aHzCU8qPkixmbcUelNpCw</imageRef>
+</TargetApp>

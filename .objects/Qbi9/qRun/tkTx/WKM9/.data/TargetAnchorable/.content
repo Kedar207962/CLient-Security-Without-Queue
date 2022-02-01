@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/work-items?page=13" CheckVisibility="True" ContentHash="Fjb1WU4GbkScPJZk5U8N4w" DesignTimeRectangle="502, 566, 182, 49" ElementType="Text" FriendlyName="'75312349'" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl isleaf='1' tag='TD' aaname='75312349' colName='WIID' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl isleaf='1' tag='TD' aaname='75312349' colName='WIID' type='' check:text='75312349' /&gt;" Guid="3d75b3b0-7718-4d24-85b5-e6f6083c99c3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="502, 520, 182, 46" ElementType="Text" FriendlyName="'WIID'" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='WIID' tag='TH' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='WIID' tag='TH' type='' check:text='WIID' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1OwnLubgTlEe0Uqp_-6Xp8Q</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">00KvEAdYXoESeaVWzQDaybQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f9c5c3c01c4e70581b1a51e5ee22ea44.png" xmlns="">0vT6zDV8-l0mvVHMITEoUsw</imageRef>
+</TargetAnchorable>

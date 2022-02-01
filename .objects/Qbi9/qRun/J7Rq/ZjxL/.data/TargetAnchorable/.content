@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://acme-test.uipath.com/work-items/75312322" ContentHash="sFOzjDsnAUeKXKnLkIdtbA" DesignTimeRectangle="383, 511, 467, 75" ElementType="Text" FriendlyName="'Client ID:'" FullSelectorArgument="&lt;webctrl tag='P' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='P' type='' aaname='                              AZ79829                              Marylou Kenworthy                              Italy                         ' /&gt;" Guid="b0d6e133-1af9-4a7d-ba07-c8ad1b91c872" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="383, 475, 467, 24" FriendlyName="'Client Information'" FullSelectorArgument="&lt;webctrl aaname='Client Information Details' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Client Information Details' tag='H4' type='' check:text='Client Information Details' /&gt;" SearchSteps="Selector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1r5EaEmjnjk6oprUp9kApAw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0SjHsTS1XKEWqYmV8eiE72g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f795ffa283750feeeb931a9bad5688c0.png" xmlns="">0MXcF1M-iu0maQs6ezmdeSQ</imageRef>
+</TargetAnchorable>

@@ -1,0 +1,15 @@
+﻿{
+  "Id": "e8mVMmCUvEKP9qf_4ZQCYg",
+  "Reference": "f556r-OgB0apHTHU5d0wgw/e8mVMmCUvEKP9qf_4ZQCYg",
+  "ParentRef": "f556r-OgB0apHTHU5d0wgw/qRunNd97-Eu9fhC_Iqge4g",
+  "Name": "Dashboard Screen",
+  "Description": "Navigate to dashboard",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2021-11-27T04:54:54.496037Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-11-27T04:54:54.496037Z"
+}

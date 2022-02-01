@@ -1,0 +1,14 @@
+﻿{
+  "Id": "ZjxLttdKTEes3zjO-U225A",
+  "Reference": "f556r-OgB0apHTHU5d0wgw/ZjxLttdKTEes3zjO-U225A",
+  "ParentRef": "f556r-OgB0apHTHU5d0wgw/J7RqHBWmSEyJZqC-p6AP8w",
+  "Name": "Get Text 'Client Information'",
+  "Type": "Element",
+  "TaxonomyType": "Client Info",
+  "Created": "2021-11-15T14:50:13.8818901Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-11-15T14:50:13.8818901Z"
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "tkTxnyZCTEO6BiE8ZTd6uA",
+  "Reference": "f556r-OgB0apHTHU5d0wgw/tkTxnyZCTEO6BiE8ZTd6uA",
+  "ParentRef": "f556r-OgB0apHTHU5d0wgw/qRunNd97-Eu9fhC_Iqge4g",
+  "Name": "Extract_Datatable",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2021-11-13T06:39:19.1026184Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2021-11-13T06:39:19.1026184Z"
+}
